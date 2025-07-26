@@ -25,7 +25,7 @@ body {
     right: 73vw;
     top: 175vw;
     width: 7vw;
-    z-index: 111;
+    z-index: 101;
     opacity: 99%;
 }
 
@@ -34,7 +34,7 @@ body {
     right: 30vw;
     top: 125vw;
     width: 7vw;
-    z-index: 111;
+    z-index: 101;
     opacity: 99%;
 }
 
@@ -43,7 +43,7 @@ body {
     right: 20vw;
     top: 235vw;
     width: 7vw;
-    z-index: 111;
+    z-index: 101;
     opacity: 99%;
 }
 
@@ -52,7 +52,7 @@ position: absolute;
     right: 75vw;
     top: 275vw;
     width: 14vw;
-    z-index: 111;
+    z-index: 101;
     opacity: 99%;
 }
 
@@ -61,7 +61,7 @@ position: absolute;
     right: 75vw;
     top: 105vw;
     width: 10vw;
-    z-index: 111;
+    z-index: 101;
     opacity: 99%;
 }
     .item {
@@ -85,7 +85,7 @@ position: absolute;
       background: rgba(0, 0, 0, 0.5);
       justify-content: center;
       align-items: center;
-      z-index: 200;
+      z-index: 102;
     
 }
     .modal-content {
